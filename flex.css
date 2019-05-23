@@ -1,0 +1,15 @@
+
+.nav-list li {
+    flex-basis: 25%;
+    flex-wrap: nowrap;   
+}
+
+.animal {
+    flex-basis: 25%;
+    border-box: 10px;
+
+}
+.container {
+    display: flex;
+    justify 
+}
